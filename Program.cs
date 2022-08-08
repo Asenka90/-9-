@@ -45,9 +45,9 @@ Console.WriteLine("");
 
 
 Console.WriteLine("***Задача 68:***");
-Console.WriteLine("Введите M");
+Console.WriteLine("Введи M");
 UInt64 Number1 = Convert.ToUInt64(Console.ReadLine());
-Console.WriteLine("Введите N");
+Console.WriteLine("Введи N");
 UInt64 Number2 = Convert.ToUInt64(Console.ReadLine());
 Console.WriteLine("По функции Aккермана A(M,N): ");
 UInt64 Ackerman(UInt64 M3, UInt64 N3)
